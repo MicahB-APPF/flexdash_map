@@ -7,6 +7,7 @@ output: flexdashboard::flex_dashboard
 
 
 ```{r}
+#https://www.paulamoraga.com/book-geospatial/sec-flexdashboard.html
 library(rnaturalearth)
 library(wbstats)
 library(leaflet)
